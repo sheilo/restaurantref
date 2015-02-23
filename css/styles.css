@@ -1,0 +1,20 @@
+/*mobile*/
+@media (max-width: 480px){
+	body{
+		background: red;
+	}
+}
+
+/*tablet*/
+@media (min-width: 768px){
+	body{
+		background: yellow;
+	}
+}
+
+/*desktop*/
+@media (min-width: 992px){
+	body{
+		background: green;
+	}
+}
